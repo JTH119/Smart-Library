@@ -61,7 +61,7 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 
 ## 2. ChatBot<br>
 - flask를 이용해 pc버전을 모바일로 실행 시켜 동작하고 있음
-![chatbot](https://github.com/user-attachments/assets/a013adc4-0abe-41ab-bced-e114f92a532e)
+<img src="[https://github.com/user-attachments/assets/a013adc4-0abe-41ab-bced-e114f92a532e]" alt="chatbot" style="width: 50%; height: auto;">
 
 ## 3. 건의사항 기능<br>
 - 이용자가 Chatbot을 이용해 도서관 건의사항을 적게 되면, 실시간으로 Main Program에서 알 수 있음.
