@@ -28,7 +28,7 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 ##### 2. 도서관에 관한 건의 사항이 있을 시, 비대면으로 챗봇을 통해 부담없고 솔직하게 의견을 전달 할 수 있다
 ---
 #### High Level Diagram
-![High_level_Diagram](./high_level_diagram.bmp)
+![high_level_diagram](https://github.com/user-attachments/assets/1ae57c94-f288-48bd-a90e-4236b6b21d1b)
 ---
 #### Software Architecture
 ![SW_Architecture](./sw_architecture.bmp)
