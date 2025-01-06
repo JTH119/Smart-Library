@@ -1,4 +1,4 @@
-# Intel AI Edge Team project 1조
+# Intel AI Edge Team project
 
 https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD-FM/edit#slide=id.g2a692d12221_0_316 
 
