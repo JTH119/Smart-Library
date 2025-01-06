@@ -31,10 +31,10 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 ![high_level_diagram](https://github.com/user-attachments/assets/1ae57c94-f288-48bd-a90e-4236b6b21d1b)
 ---
 #### Software Architecture
-![SW_Architecture](./sw_architecture.bmp)
+![sw_architecture](https://github.com/user-attachments/assets/fe4af14a-8bd3-46bc-9b3b-d48e2ee1ec07)
 ---
 #### Flow Chart
-![Flow Chart](./FlowChart.bmp)
+![FlowChart](https://github.com/user-attachments/assets/8a3d26a1-5017-4156-922a-8a2017dab210)
 ---
 #### 사용 Software Tools & Frameworks 
 * Python
@@ -46,32 +46,32 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 * fuzzywuzzy
 ---
 #### 프로젝트 개발 일정
-![WBS](./WBS.png)
+![WBS](https://github.com/user-attachments/assets/792b02ef-3fbf-4c6a-a11b-79bd5f1986f9)
 
 ---
 #### 역할
-<img src="./Role.png" alt="Role" width="60%" height="60%">
+![Role](https://github.com/user-attachments/assets/97e1b9c7-4268-4018-9819-d6fc2667b52a)
 
 ---
 #### 결과물
 ## 1. Main Program<br>
 - 로그인 후 메인 프로그램으로 들어가게 됨.<br>
 - 메인화면에서 카메라 2개를 이용해 책장 2개의 책들을 실시간 감지 하여 상태를 표시하고 있음
-<img src="./MainProgram.gif" alt="MainProgram" width="50%">
+![MainProgram](https://github.com/user-attachments/assets/edbe002b-37ff-4f6b-9bc6-3c3dce393427)
 
 ## 2. ChatBot<br>
 - flask를 이용해 pc버전을 모바일로 실행 시켜 동작하고 있음
-<img src="./chatbot.gif" alt="ChatBot" width="20%" height="50%">
+![chatbot](https://github.com/user-attachments/assets/a013adc4-0abe-41ab-bced-e114f92a532e)
 
 ## 3. 건의사항 기능<br>
 - 이용자가 Chatbot을 이용해 도서관 건의사항을 적게 되면, 실시간으로 Main Program에서 알 수 있음.
 - Cam 2번을 통해 사용자가 chatbot을 이용해 건의사항을 작성 하고 있는 모습이 보임
 - 건의 사항 버튼을 누르면 건의사항 목록이 표시 됨
-<img src="./suggestions.gif" alt="suggestions" width="70%" height="70%">
+![suggestions](https://github.com/user-attachments/assets/207b4952-5887-4718-bc0e-4bedff695dc8)
 
 ## 4. 신간 등록 기능<br>
 - 도서관 사서가 신간 등록 버튼을 누르고, 신간 db excel 파일을 업로드 하면, 자동으로 db에 등록
-  <img src="./addnewbooks.gif" alt="addnewbooks" width="60%" height="60%"> <img src="./addnewbooks_db.gif" alt="addnewbooks_db" width="60%" height="60%">
+![addnewbooks](https://github.com/user-attachments/assets/de6f1593-83cf-42b4-8e8e-748439cc3baf)![addnewbooks_db](https://github.com/user-attachments/assets/599844e7-f701-42b3-8a00-c5ec954749d8)
 
 
 ---
