@@ -50,7 +50,7 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 
 ---
 #### 역할
-<img src="/images/Role.png" alt="Role" width="60%" height="60%">
+<img src="/images/Role.png" alt="Role" width="80%" height="60%">
 
 ---
 #### 결과물
