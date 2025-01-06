@@ -1,4 +1,4 @@
-# Intel AI Edge Team project
+# Intel AI Edge Team project 1조
 
 https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD-FM/edit#slide=id.g2a692d12221_0_316 
 
@@ -28,13 +28,13 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 ##### 2. 도서관에 관한 건의 사항이 있을 시, 비대면으로 챗봇을 통해 부담없고 솔직하게 의견을 전달 할 수 있다
 ---
 #### High Level Diagram
-![high_level_diagram](https://github.com/user-attachments/assets/1ae57c94-f288-48bd-a90e-4236b6b21d1b)
+![High_level_Diagram](/images/high_level_diagram.bmp)
 ---
 #### Software Architecture
-![sw_architecture](https://github.com/user-attachments/assets/fe4af14a-8bd3-46bc-9b3b-d48e2ee1ec07)
+![SW_Architecture](./sw_architecture.bmp)
 ---
 #### Flow Chart
-![FlowChart](https://github.com/user-attachments/assets/8a3d26a1-5017-4156-922a-8a2017dab210)
+![Flow Chart](./FlowChart.bmp)
 ---
 #### 사용 Software Tools & Frameworks 
 * Python
@@ -46,32 +46,32 @@ https://docs.google.com/presentation/d/11eHu6XhXAeMrRNQsAy2DfQQlQGY8WTk-GbzzGuaD
 * fuzzywuzzy
 ---
 #### 프로젝트 개발 일정
-![WBS](https://github.com/user-attachments/assets/792b02ef-3fbf-4c6a-a11b-79bd5f1986f9)
+![WBS](./WBS.png)
 
 ---
 #### 역할
-![Role](https://github.com/user-attachments/assets/97e1b9c7-4268-4018-9819-d6fc2667b52a)
+<img src="./Role.png" alt="Role" width="60%" height="60%">
 
 ---
 #### 결과물
 ## 1. Main Program<br>
 - 로그인 후 메인 프로그램으로 들어가게 됨.<br>
 - 메인화면에서 카메라 2개를 이용해 책장 2개의 책들을 실시간 감지 하여 상태를 표시하고 있음
-![MainProgram](https://github.com/user-attachments/assets/edbe002b-37ff-4f6b-9bc6-3c3dce393427)
+<img src="./MainProgram.gif" alt="MainProgram" width="50%">
 
 ## 2. ChatBot<br>
 - flask를 이용해 pc버전을 모바일로 실행 시켜 동작하고 있음
-<img src="[https://github.com/user-attachments/assets/a013adc4-0abe-41ab-bced-e114f92a532e]" alt="chatbot" style="width: 50% height: auto;">
+<img src="/pictures/chatbot.gif" alt="ChatBot" width="20%" height="50%">
 
 ## 3. 건의사항 기능<br>
 - 이용자가 Chatbot을 이용해 도서관 건의사항을 적게 되면, 실시간으로 Main Program에서 알 수 있음.
 - Cam 2번을 통해 사용자가 chatbot을 이용해 건의사항을 작성 하고 있는 모습이 보임
 - 건의 사항 버튼을 누르면 건의사항 목록이 표시 됨
-![suggestions](https://github.com/user-attachments/assets/207b4952-5887-4718-bc0e-4bedff695dc8)
+<img src="./suggestions.gif" alt="suggestions" width="70%" height="70%">
 
 ## 4. 신간 등록 기능<br>
 - 도서관 사서가 신간 등록 버튼을 누르고, 신간 db excel 파일을 업로드 하면, 자동으로 db에 등록
-![addnewbooks](https://github.com/user-attachments/assets/de6f1593-83cf-42b4-8e8e-748439cc3baf)![addnewbooks_db](https://github.com/user-attachments/assets/599844e7-f701-42b3-8a00-c5ec954749d8)
+  <img src="./addnewbooks.gif" alt="addnewbooks" width="60%" height="60%"> <img src="./addnewbooks_db.gif" alt="addnewbooks_db" width="60%" height="60%">
 
 
 ---
